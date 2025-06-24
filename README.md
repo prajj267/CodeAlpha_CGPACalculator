@@ -30,3 +30,17 @@ A simple C++ command-line application that calculates a student's **GPA for a se
    ```bash
    git clone https://github.com/your-username/cgpa-cpp.git
    cd cgpa-cpp
+
+   
+
+2. Compile the code
+'''bash
+  g++ -o cgpa_calculator main.cpp
+
+
+2.Run the program:
+
+'''bash
+
+./cgpa_calculator
+
